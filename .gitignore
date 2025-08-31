@@ -103,7 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.ml_env
 env/
 venv/
 ENV/
