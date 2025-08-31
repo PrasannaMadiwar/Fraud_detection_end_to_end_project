@@ -8,5 +8,4 @@ End-to-end ML project to detect fraudulent financial transactions. Covers data p
   4. [GitCLI](https://GitCLI.com/)
 
 ### create new enviroment 
-    conda create -p venv python==3.7 -y
-    
+    conda create -p ml_env python==3.12 -y
